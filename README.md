@@ -6,6 +6,8 @@
 
 ![Sogrey's github stats](https://github-readme-stats.vercel.app/api?username=sogrey&show_icons=true&theme=radical) <!-- https://github.com/anuraghazra/github-readme-stats -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sogrey&layout=compact)
+
 - 👯 Field of study: Java|Kotlin|Javascript|TypeScript|Flutter|Dart
 - 📫 How to reach me: Xi'an China
 - 😄 Blog: https://sogrey.github.io/ OR https://sogrey.gitee.io/
