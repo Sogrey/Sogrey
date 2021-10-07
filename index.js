@@ -24,14 +24,5 @@ const readme = `\
 
 ![](https://komarev.com/ghpvc/?username=sogrey&color=dc143c)
 
-一只羊🐑， 两只羊🐑🐑， 三只羊🐑🐑🐑… sorry,GC overhead limit exceeded.
-
-![Sogrey's github stats](https://github-readme-stats.vercel.app/api?username=sogrey&show_icons=true&theme=material-palenight) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sogrey&layout=compact)
-
-- 👯 Field of study: Java|Kotlin|Javascript|TypeScript|Flutter|Dart
-- 📫 How to reach me: Xi'an China\
+一只羊🐑， 两只羊🐑🐑， 三只羊🐑🐑🐑… sorry,GC overhead limit exceeded. \
 `
-
-console.log(readme);
