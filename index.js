@@ -18,7 +18,5 @@ const readme = `\
 
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
-> ⏰ Updated on ${new Date().toUTCString()}
-
-![](https://komarev.com/ghpvc/?username=sogrey&color=dc143c) \
+> ⏰ Updated on ${new Date().toUTCString()} \
 `
