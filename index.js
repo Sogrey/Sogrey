@@ -13,7 +13,7 @@ function generateProgressBar() {
     return `{ ${progressBar} }`
 }
 
-const readme = `\
+const readme = `
 ### Hi there 👋
 
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
@@ -33,4 +33,4 @@ const readme = `\
 - 👯 Field of study: Java|Kotlin|Javascript|TypeScript|Flutter|Dart
 - 📫 How to reach me: Xi'an China
 - 😄 Blog: https://sogrey.github.io/ OR https://sogrey.gitee.io/
-\`
+`
