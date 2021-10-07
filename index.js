@@ -20,7 +20,5 @@ const readme = `\
 
 > ⏰ Updated on ${new Date().toUTCString()}
 
-## Sogrey
-
 ![](https://komarev.com/ghpvc/?username=sogrey&color=dc143c) \
 `
