@@ -32,8 +32,8 @@ const readme = `\
 
 - 👯 Field of study: Java|Kotlin|Javascript|TypeScript|Flutter|Dart
 - 📫 How to reach me: Xi'an China
-- 😄 Blog: https://sogrey.github.io/ OR https://sogrey.gitee.io/\
+- 😄 Blog: https://sogrey.github.io/ OR https://sogrey.gitee.io/
 
-`
+\`
 
 console.log(readme);
