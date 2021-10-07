@@ -16,7 +16,7 @@ function generateProgressBar() {
 const readme = `\
 ### Hi there 👋
 
-⏳ **${thisYear}**${progressBarOfThisYear}**${thisYear+1}** [${(progressOfThisYear * 100).toFixed(2)} %]
+⏳ **${thisYear}**${progressBarOfThisYear}**${thisYear+1}** [${(progressOfThisYear * 100).toFixed(2)} %] <!-- https://github.com/liununu/liununu -->
 
 > ⏰ Updated on ${new Date().toUTCString()} 
 
