@@ -22,7 +22,5 @@ const readme = `\
 
 ## Sogrey
 
-![](https://komarev.com/ghpvc/?username=sogrey&color=dc143c)
-
-一只羊🐑， 两只羊🐑🐑， 三只羊🐑🐑🐑… sorry,GC overhead limit exceeded. \
+![](https://komarev.com/ghpvc/?username=sogrey&color=dc143c) \
 `
