@@ -8,9 +8,9 @@ function generateProgressBar() {
     const progressBarCapacity = 30
     const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
     const progressBar =
-      '>'.repeat(passedProgressBarIndex) +
-      '_'.repeat(progressBarCapacity - passedProgressBarIndex)
-    return ` ${progressBar} }`
+      '▶'.repeat(passedProgressBarIndex) +
+      '▁'.repeat(progressBarCapacity - passedProgressBarIndex)
+    return ` 【${progressBar}】 `
 }
 
 const readme = `\
