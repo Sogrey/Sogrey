@@ -8,15 +8,15 @@ function generateProgressBar() {
     const progressBarCapacity = 30
     const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
     const progressBar =
-      '█'.repeat(passedProgressBarIndex) +
-      '▁'.repeat(progressBarCapacity - passedProgressBarIndex)
-    return `{ ${progressBar} }`
+      '>'.repeat(passedProgressBarIndex) +
+      '_'.repeat(progressBarCapacity - passedProgressBarIndex)
+    return ` ${progressBar} }`
 }
 
 const readme = `\
 ### Hi there 👋
 
-⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
+⏳ ${thisYear}${progressBarOfThisYear}${thisYear+1} [${(progressOfThisYear * 100).toFixed(2)} %]
 
 > ⏰ Updated on ${new Date().toUTCString()} 
 
