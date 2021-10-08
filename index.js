@@ -13,24 +13,8 @@ function generateProgressBar() {
     return ` 【${progressBar}】 `
 }
 
-function getdates() {
-    var w_array = new Array("星期天", "星期一", "星期二", "星期三", "星期四", "星期五", "星期六");
-    var d = new Date();
-    var year = d.getFullYear();
-    var month = d.getMonth() + 1;
-    var day = d.getDate();
-    var week = d.getDay();
-    var h = d.getHours();
-    var mins = d.getMinutes();
-    var s = d.getSeconds();
-    if (month < 10) month = "0" + month
-    if (day < 10) day = "0" + day
-    if (h < 10) h = "0" + h
-    if (mins < 10) mins = "0" + mins
-    if (s < 10) s = "0" + s
-    var shows = year + "-" + month + "-" + day + " " + h + ":" + mins + ":" + s + " " + w_array[week] + "";
-    console.log(shows);
-    return shows;
+function PRCDate() {
+    return new Date(new Date().getTime()+(parseInt(new Date().getTimezoneOffset()/60) + 8)*3600*1000);
 }
 
 const readme = `\
@@ -38,7 +22,7 @@ const readme = `\
 
 ⏳ **${thisYear}**${progressBarOfThisYear}**${thisYear+1}** [${(progressOfThisYear * 100).toFixed(2)} %] <!-- https://github.com/liununu/liununu -->
 
-> ⏰ Updated on ${new Date().toUTCString()}  [北京时间：${getdates()}]
+> ⏰ Updated on ${PRCDate()}
 
 ## Sogrey
 
