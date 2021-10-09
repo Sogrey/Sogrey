@@ -20,6 +20,8 @@ function PRCDate() {
 const readme = `\
 ### Hi there 👋
 
+😀 I am always easy to die fine time, but we need not regret, although we can't obstruct time of passage, we can keep this happiness. 
+ 
 ⏳ **${thisYear}**${progressBarOfThisYear}**${thisYear+1}** [${(progressOfThisYear * 100).toFixed(2)} %] <!-- https://github.com/liununu/liununu -->
 
 > ⏰ Updated on ${PRCDate()}
