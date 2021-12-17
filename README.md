@@ -2,9 +2,9 @@
 
 😀 I am always easy to die fine time, but we need not regret, although we can't obstruct time of passage, we can keep this happiness. 
  
-⏳ **2021** 【▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁】 **2022** [95.80 %] <!-- https://github.com/liununu/liununu -->
+⏳ **2021** 【▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁】 **2022** [96.08 %] <!-- https://github.com/liununu/liununu -->
 
-> ⏰ Updated on Fri Dec 17 2021 00:19:23 GMT+0000 (Coordinated Universal Time)
+> ⏰ Updated on Sat Dec 18 2021 00:18:45 GMT+0000 (Coordinated Universal Time)
 
 ## Sogrey
 
