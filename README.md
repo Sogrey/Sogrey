@@ -2,9 +2,9 @@
 
 😀 I am always easy to die fine time, but we need not regret, although we can't obstruct time of passage, we can keep this happiness. 
  
-⏳ **2021** 【▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁】 **2022** [99.09 %] <!-- https://github.com/liununu/liununu -->
+⏳ **2021** 【▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁】 **2022** [99.36 %] <!-- https://github.com/liununu/liununu -->
 
-> ⏰ Updated on Wed Dec 29 2021 00:19:18 GMT+0000 (Coordinated Universal Time)
+> ⏰ Updated on Thu Dec 30 2021 00:19:13 GMT+0000 (Coordinated Universal Time)
 
 ## Sogrey
 
@@ -19,4 +19,3 @@
 - 👯 Field of study: Java|Kotlin|Javascript|TypeScript|Flutter|Dart
 - 📫 How to reach me: Xi'an China
 - 😄 Blog: https://sogrey.github.io/ OR https://sogrey.gitee.io/ 
-- and more ...
