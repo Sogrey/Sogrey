@@ -20,8 +20,3 @@
 - 📫 How to reach me: Xi'an China
 - 😄 Blog: https://sogrey.github.io/ OR https://sogrey.gitee.io/ 
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="sogrey's skyline" src="https://codepen.io/sogrey/embed/BaYKeQE?default-tab=result&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/sogrey/pen/BaYKeQE">
-  sogrey's skyline</a> by Sogrey (<a href="https://codepen.io/sogrey">@sogrey</a>)
-  on <a href="https://codepen.io">CodePen</a>.
-</iframe>
