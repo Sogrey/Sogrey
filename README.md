@@ -2,13 +2,13 @@
 
 😀 I am always easy to die fine time, but we need not regret, although we can't obstruct time of passage, we can keep this happiness. 
  
-⏳ **2022** 【▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁】 **2023** [36.62 %] <!-- https://github.com/liununu/liununu -->
+⏳ **2022** 【▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁】 **2023** [36.64 %] <!-- https://github.com/liununu/liununu -->
 
-> ⏰ Updated on Sun May 15 2022 00:18:18 GMT+0000 (Coordinated Universal Time)
+> ⏰ Updated on Sun May 15 2022 01:27:14 GMT+0000 (Coordinated Universal Time)
 
 ## Sogrey
 
-![](https://komarev.com/ghpvc/?username=sogrey&color=a90afb)
+![](https://komarev.com/ghpvc/?username=sogrey&color=a90afb&style=for-the-badge)
 
 一只羊🐑， 两只羊🐑🐑， 三只羊🐑🐑🐑… sorry,GC overhead limit exceeded.
 
