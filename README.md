@@ -16,7 +16,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sogrey&layout=compact)
 
-![](https://github-profile-trophy.vercel.app/?username=sogrey&theme=onedark&row=2&column=3)
+![](https://github-profile-trophy.vercel.app/?username=sogrey&theme=onedark&row=2&column=4)
 
 - 👯 Field of study: Android|Java|Kotlin|Javascript|TypeScript|Flutter|Dart|Vue
 - 📫 How to reach me: Xi'an China
