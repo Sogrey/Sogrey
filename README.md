@@ -2,9 +2,9 @@
 
 😀 I am always easy to die fine time, but we need not regret, although we can't obstruct time of passage, we can keep this happiness. 
  
-⏳ **2023** 【▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁】 **2024** [17.72 %] <!-- https://github.com/liununu/liununu -->
+⏳ **2023** 【▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁】 **2024** [17.99 %] <!-- https://github.com/liununu/liununu -->
 
-> ⏰ Updated on Tue Mar 07 2023 00:17:03 GMT+0000 (Coordinated Universal Time)
+> ⏰ Updated on Wed Mar 08 2023 00:17:12 GMT+0000 (Coordinated Universal Time)
 
 ## Sogrey
 
@@ -18,6 +18,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=sogrey&theme=onedark&row=2&column=4)
 
-- 👯 Field of study: Android | Java | Kotlin | Javascript | TypeScript | Flutter | Dart | Vue | UnrealEngine 
+- 👯 Field of study: Android | Java | Kotlin | Javascript | TypeScript | Flutter | Dart | Vue | Three.js | Cesium | C++ | UnrealEngine 
 - 📫 How to reach me: Xi'an China
 - 😄 Blog: https://sogrey.github.io/ OR https://sogrey.gitee.io/ 
