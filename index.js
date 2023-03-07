@@ -38,7 +38,7 @@ const readme = `\
 
 ![](https://github-profile-trophy.vercel.app/?username=sogrey&theme=onedark&row=2&column=4)
 
-- 👯 Field of study: Android | Java | Kotlin | Javascript | TypeScript | Flutter | Dart | Vue | UnrealEngine 
+- 👯 Field of study: Android | Java | Kotlin | Javascript | TypeScript | Flutter | Dart | Vue | Three.js | Cesium | UnrealEngine 
 - 📫 How to reach me: Xi'an China
 - 😄 Blog: https://sogrey.github.io/ OR https://sogrey.gitee.io/ \
 `
