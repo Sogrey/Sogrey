@@ -2,9 +2,9 @@
 
 😀 I am always easy to die fine time, but we need not regret, although we can't obstruct time of passage, we can keep this happiness. 
  
-⏳ **2024** 【▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁】 **2025** [37.89 %] <!-- https://github.com/liununu/liununu -->
+⏳ **2024** 【▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁】 **2025** [38.16 %] <!-- https://github.com/liununu/liununu -->
 
-> ⏰ Updated on Sun May 19 2024 00:13:45 GMT+0000 (Coordinated Universal Time)
+> ⏰ Updated on Mon May 20 2024 00:14:12 GMT+0000 (Coordinated Universal Time)
 
 ## Sogrey
 
@@ -18,6 +18,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=sogrey&theme=onedark&row=2&column=4)
 
-- 👯 Field of study: Android | Java | Kotlin | Javascript | TypeScript | Flutter | Dart | Vue | Three.js | Cesium | C++ | UnrealEngine 
+- 👯 Field of study: [Android](https://developer.android.google.cn/?hl=zh-cn) | [Java](https://www.java.com/zh-CN/) | [Kotlin](https://kotlinlang.org/) | [Javascript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript) | [TypeScript](https://github.com/microsoft/TypeScript) | [Flutter](https://flutter.dev/) | [Dart](https://github.com/dart-lang) | [Vue](https://cn.vuejs.org/) | [Three.js](https://threejs.org/) | [Cesium](https://www.cesium.com/) | [C/C++](https://learn.microsoft.com/zh-cn/cpp/?view=msvc-170&viewFallbackFrom=vs-2019) | [UnrealEngine](https://www.unrealengine.com/zh-CN) 
 - 📫 How to reach me: Xi'an China
 - 😄 Blog: https://sogrey.github.io/ OR https://sogrey.gitee.io/ 
